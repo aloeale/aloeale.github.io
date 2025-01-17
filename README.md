@@ -11,5 +11,5 @@ I'm also a very creative person and enjoy drawing and crotcheting
 During my free time, I also enjoy playing video games. One of my favorites being the _Life is Strange_ series. 
 
 ## Apps I Recommend
-    -[Copilot Money](https://copilot.money/) - One of my favorite budgeting apps. Has beautiful UI.
-    -[Webtoon](https://www.webtoons.com/en/) - If you love webcomics, this is a great app to support artists.
+- [Copilot Money](https://copilot.money/) - One of my favorite budgeting apps. Has beautiful UI.
+- [Webtoon](https://www.webtoons.com/en/) - If you love webcomics, this is a great app to support artists.
