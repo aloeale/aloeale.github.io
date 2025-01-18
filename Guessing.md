@@ -1,6 +1,5 @@
 ```mermaid
 flowchart TD
-  flowchart TD
     A(Start) --> B[Computer generates number between a certain range]
     B --> C[Computer tells user to guess a number between # to #]
     C --> D[User enters number]
