@@ -29,7 +29,8 @@ flowchart TD
     U --> V[Tell user that their answer is not within the specified range and to try again]
     V --> B 
 ```    
-##Describing The Flowchart
+## Describing The Flowchart  
+
 The first step after starting the game is for the computer to generate a random number. From there, the computer asks the user to guess a number, giving a range for them to guess a number. After that, the computer has essentially three decisions based on the user's input. If the user either gives a number outside the range provided **or** gives a non-number answer, the computer will then proceed to tell the user to try again with an answer that is either a number or within the range depending on the choice.   
 If the user gives an answer that is both within the range _and_ a is a number, the computer again has three different outcomes. If the answer is lower than the correct number generated, it will tell the user this and ask if they want to try again or end the game. If they do want to try again, it will go back to the screen where the computer asks them to guess a number between the already predetermined range. If the user does not want to try again, the game will end.  
 If the answer is higher than the correct number generated, it will tell the user this and ask if they want to try again or end the game. If they do want to try again, it will go back to the screen where the computer asks them to guess a number between the already predetermined range. If the user does not want to try again, the game will end.  
