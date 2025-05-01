@@ -1,16 +1,5 @@
 function fetchGradeData() {
     console.log("Fetching grade data...");
-}
-
-function populateGradebook(data) {
-    console.log("Populating gradebook with data:", data);
-}
-
-const gradeData = fetchGradeData();
-populateGradebook(gradeData);
-
-function fetchGradeData() {
-    console.log("Fetching grade data...");
     let xhr = new XMLHttpRequest();
     let apiRoute = "/api/grades";
     xhr.onreadystatechange = function(){
@@ -49,3 +38,6 @@ function populateGradebook(data) {
             tableElm.appendChild(row);
         });
 }
+
+const gradeData = fetchGradeData();
+populateGradebook(gradeData);
